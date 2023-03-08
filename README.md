@@ -3,6 +3,7 @@
 
 * Data compiled between 2013-2019
 * [Data Link](https://www.kaggle.com/datasets/andrewsundberg/college-basketball-dataset)
+* [Tableau Link](https://public.tableau.com/views/Pac12teamstats/FinalDashboard?:language=en-US&:display_count=n&:origin=viz_share_link)
 
 ##### Dean Oliver, a statistical consultant for the Denver Nuggets uses a four-factor model to determine an NBA team’s strengths and weaknesses. The four-factor model is described below:
 
